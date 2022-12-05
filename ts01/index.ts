@@ -1,4 +1,4 @@
-// function which is returning sum from array
+// function which is returning sum result from array
 
 function getTotal(numbers: number[]):number{
     return numbers.reduce((acc:number, item:number) => {

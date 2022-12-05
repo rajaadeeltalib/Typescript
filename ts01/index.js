@@ -1,4 +1,4 @@
-// function which is returning sum from array
+// function which is returning sum result from array
 function getTotal(numbers) {
     return numbers.reduce(function (acc, item) {
         return acc + item;
